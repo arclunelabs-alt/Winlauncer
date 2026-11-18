@@ -138,6 +138,6 @@ app/src/main/java/com/arclune/winlauncher/
 
 Ide dan laporan bug sangat dipersilakan lewat **Issues**.
 
-## Lisensi
+## License
 
-Belum ditentukan. Tambahkan file `LICENSE` (misalnya MIT) agar orang lain tahu cara memakai kodenya.
+Released under the Win11 Launcher License, Version 1.0. See [LICENSE](LICENSE).
