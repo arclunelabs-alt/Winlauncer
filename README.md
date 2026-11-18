@@ -2,7 +2,7 @@
 
 # Win11 Launcher
 
-**Launcher Android bertema Windows 11 — landscape, rasa desktop.**
+**Launcher Android bertema Windows 11, rasa desktop.**
 
 ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)
@@ -11,7 +11,7 @@
 
 </div>
 
-Win11 Launcher mengubah layar HP Android (mode landscape) menjadi lingkungan desktop bergaya Windows 11: taskbar, menu Start, jendela yang bisa digeser dan di-snap, desktop virtual, dan aplikasi mini bawaan. Ditulis dengan Kotlin murni di atas framework View Android, tanpa AndroidX dan tanpa layout XML.
+Win11 Launcher mengubah tampilan HP Android menjadi lingkungan desktop bergaya Windows 11: taskbar, menu Start, jendela yang bisa digeser dan di-snap, desktop virtual, dan aplikasi mini bawaan. Ditulis dengan Kotlin murni di atas framework View Android, tanpa AndroidX dan tanpa layout XML.
 
 > Proyek hobi dan tidak berafiliasi dengan Microsoft. "Windows" adalah merek dagang Microsoft.
 
