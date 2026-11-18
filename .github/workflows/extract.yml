@@ -1,0 +1,26 @@
+name: Extract source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unzip
+        run: |
+          set -e
+          test -f Win11Launcher.zip
+          mkdir /tmp/x
+          unzip -q Win11Launcher.zip -d /tmp/x
+          rm -rf /tmp/x/Win11Launcher/.github
+          cp -a /tmp/x/Win11Launcher/. .
+          git rm -q Win11Launcher.zip
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Extract Win11Launcher source from zip"
+          git push1
