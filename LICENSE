@@ -1,0 +1,235 @@
+                        WIN11 LAUNCHER LICENSE
+                            Version 1.0, 2026
+
+     Copyright (c) 2026 arclunelabs labs. All rights reserved except as
+     expressly granted below.
+
+     Everyone is permitted to copy and distribute verbatim copies of this
+     license document, but changing it is not allowed.
+
+
+                               Preamble
+
+  Win11 Launcher is an independent, community-minded project that brings a
+  desktop-style experience to Android phones. It was written for people who
+  enjoy tinkering with their devices, and it is shared in the hope that it
+  will be useful, educational, and fun to build upon.
+
+  This license exists to keep that spirit simple. You are free to use the
+  software, to study how it works, to change it, and to share it with others,
+  including in commercial settings. In return, we ask for three things:
+  that you give credit where it is due, that you are honest about changes
+  you make, and that you respect the names and trademarks of others that
+  appear around this project.
+
+  The software is offered as a gift and as a work in progress. It comes
+  with no promises about fitness, stability, or safety, and the people who
+  made it cannot be held responsible for how it is used. The precise terms
+  and conditions for use, copying, modification, and distribution follow.
+
+
+                      TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" means the terms and conditions in this document.
+
+  "The Software" means the Win11 Launcher source code, build scripts,
+  resources, documentation, and any compiled form of them (including
+  application packages distributed as APK files), as published by the
+  Licensor in the repository at https://github.com/arclunelabs-alt/Winlauncer.
+
+  "The Licensor" means arclunelabs-alt, the copyright holder of the Software.
+
+  "You" means the individual or legal entity exercising permissions granted
+  by this License.
+
+  "Derivative Work" means any work that is based on, copied from, or
+  incorporates the Software or a substantial part of it, including
+  modified versions, forks, ports, and translations.
+
+  "Redistribute" means to make the Software or a Derivative Work available
+  to anyone other than yourself, in source or compiled form, by any means,
+  including publishing in a repository, uploading to a store, or sending
+  a copy.
+
+  "Contribution" means any work of authorship that You intentionally submit
+  to the Licensor for inclusion in the Software, such as a pull request,
+  patch, or issue attachment.
+
+  1. Grant of Permission.
+
+  Subject to the conditions of this License, the Licensor grants You a
+  worldwide, royalty-free, non-exclusive, perpetual (subject to Section 11)
+  permission to use, run, copy, study, modify, merge, publish, distribute,
+  sublicense, and sell copies of the Software and of Derivative Works, for
+  any purpose, whether personal, educational, or commercial.
+
+  2. Conditions for Redistribution.
+
+  If You Redistribute the Software or a Derivative Work, You must:
+
+    (a) include a complete copy of this License with it;
+
+    (b) keep intact every copyright notice, attribution notice, and
+        disclaimer that appears in the Software;
+
+    (c) clearly state, in a place where a reasonable recipient will see it
+        (for example, in the README, an "About" screen, or a changelog),
+        that Your work is based on Win11 Launcher by arclunelabs-alt, and
+        include a link to the original repository;
+
+    (d) mark every file You modified with a notice that it was changed,
+        and describe the nature of the change in reasonable detail; and
+
+    (e) not present Your Derivative Work in a way that suggests it is the
+        original project, or that the Licensor made, reviewed, or endorsed
+        it, unless the Licensor has given written permission.
+
+  Redistribution of compiled application packages must also provide, or
+  point to, a way to obtain the corresponding source code of the version
+  You distribute, if that source is a Derivative Work of the Software.
+
+  3. Names, Trademarks, and Non-Affiliation.
+
+  This License grants no rights to use the name "Win11 Launcher", the
+  Licensor's name, or any logo of the Licensor as the name or brand of
+  a Derivative Work, except for reasonable and customary use in describing
+  the origin of the Software as required by Section 2(c).
+
+  The Software is not affiliated with, authorized by, sponsored by, or
+  endorsed by Microsoft Corporation. "Microsoft", "Windows", and
+  "Windows 11" are trademarks of the Microsoft group of companies and
+  are used only to describe the visual style that inspired the Software's
+  interface. The Software does not contain Microsoft source code, binaries,
+  fonts, icons, sounds, or other proprietary assets. Nothing in this
+  License grants any right in the trademarks of any third party, and You
+  are solely responsible for ensuring that Your own use and distribution of
+  a Derivative Work respects those trademarks and any other applicable
+  third-party rights.
+
+  4. Third-Party Services and Components.
+
+  Some features of the Software retrieve data from services operated by
+  third parties, including weather data providers, news feeds, and websites
+  opened in the built-in browser. Those services are not part of the
+  Software, are not covered by this License, and are governed by their own
+  terms. You are responsible for reading and complying with them,
+  particularly before any high-volume or commercial use.
+
+  Content displayed through the Software, such as news headlines, article
+  pages, and weather data, remains the property of its respective owners.
+
+  The Software is written against the Android framework APIs and does not
+  bundle third-party libraries. If You add third-party components to a
+  Derivative Work, those components remain under their own licenses, and
+  You must comply with them.
+
+  5. Privacy and Data Handling.
+
+  As distributed by the Licensor, the Software contains no analytics,
+  advertising, or crash-reporting components and does not transmit personal
+  data to any server operated by the Licensor. Settings, a lock-screen PIN
+  (stored only as a one-way hash), clipboard history, and layout information
+  are stored locally on the device.
+
+  If You modify the Software to collect, store, or transmit user data, You
+  are solely responsible for informing users, obtaining any required
+  consent, and complying with all applicable data-protection laws. You must
+  not describe such a Derivative Work as privacy-preserving in the manner
+  of the original unless that remains true.
+
+  6. Sensitive Capabilities and Security.
+
+  The Software can request sensitive Android permissions, including access
+  to all files, contacts, and notifications. These are requested only when a
+  related feature is used and may be revoked by the user at any time. If You
+  Redistribute a Derivative Work, You must not use those permissions for
+  purposes the user has not been clearly told about.
+
+  The lock screen provided by the Software is a visual convenience feature.
+  It is not a security boundary and must not be represented as a
+  replacement for the Android system lock screen. Application packages
+  published by the Licensor may be debug builds signed with a debug key and
+  should be obtained only from the official repository.
+
+  7. Contributions.
+
+  Unless You state otherwise in writing at the time of submission, any
+  Contribution You make is licensed to the Licensor and to all recipients
+  of the Software under the terms of this License. You confirm that You
+  have the right to submit the Contribution and that doing so does not
+  violate the rights of any third party. The Licensor is under no
+  obligation to accept, keep, or credit any Contribution, although
+  reasonable efforts will be made to acknowledge contributors.
+
+  8. Disclaimer of Warranty.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+  ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT
+  LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND UNINTERRUPTED OR
+  ERROR-FREE OPERATION. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF
+  THE SOFTWARE IS WITH YOU.
+
+  9. Limitation of Liability.
+
+  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+  LICENSOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY CLAIM OR FOR ANY DIRECT,
+  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES,
+  INCLUDING LOSS OF DATA, LOSS OF PROFITS, DEVICE MALFUNCTION, OR BUSINESS
+  INTERRUPTION, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN
+  CONTRACT, TORT, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE
+  SOFTWARE OR ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+  Features that read, write, or delete files should be used with care and
+  with backups of important data.
+
+  10. Compliance with Law.
+
+  You are responsible for ensuring that Your use and distribution of the
+  Software and of any Derivative Work complies with all laws and
+  regulations that apply to You, including export, consumer-protection,
+  intellectual-property, and data-protection laws, as well as the terms of
+  any app store or platform through which You distribute.
+
+  11. Termination.
+
+  The permissions granted by this License continue for as long as You
+  comply with it. If You violate any condition of this License, Your
+  permissions terminate automatically. Your permissions are reinstated if
+  You cure the violation within thirty (30) days after becoming aware of it,
+  or after being notified by the Licensor, whichever is earlier. A repeated
+  violation after reinstatement may result in permanent termination.
+  Termination does not affect the permissions of any recipient who
+  received the Software from You and who is complying with this License.
+
+  12. Severability and No Waiver.
+
+  If any provision of this License is held to be unenforceable, that
+  provision shall be enforced to the maximum extent permissible, and the
+  remaining provisions shall remain in full force and effect. The Licensor's
+  failure to enforce any provision at any time is not a waiver of the
+  right to enforce it later.
+
+  13. Entire Agreement and Changes to This License.
+
+  This License is the entire agreement between You and the Licensor
+  regarding the Software and replaces any earlier understanding about it.
+  The Licensor may publish new versions of this License. A copy of the
+  Software that You received under a given version of this License remains
+  available to You under that version.
+
+
+                   END OF TERMS AND CONDITIONS
+
+
+            How to Apply This License to Your Own Work
+
+  If You build a Derivative Work, add the following notice to the start of
+  each modified source file, and keep a copy of this License in the root of
+  Your repository:
+
+      Based on Win11 Launcher by arclunelabs labs
+      (https://github.com/arclunelabs-alt/Winlauncer),
+      used under the Win11 Launcher License, Version 1.0.
+      Modified by <Your Name>, <year>: <short description of changes>.
